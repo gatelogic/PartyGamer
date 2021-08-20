@@ -20,6 +20,13 @@ All you need to do is [add the bot to your server](https://link.gatelogic.me/par
 
 The bot needs ALL of the permissions to be able to do anything, so make sure to give it all permissions! If you don't the bot will error out and tell you to do so.
 
-## Quick N
+## What will Premium do?
+Premium will give you the ability to toggle private parties, and will give you the ability to set a party description. It also gives you a role in the Discord server with faster support.
 
-(Please note that the bot is currently in development, so it may not work as expected at the moment. If you find any bugs, please report them to the [issue tracker](https://github.com/gatelogic/PartyGamer/issues))
+## Quick Notes
+
+PartyGamer is currently in development, so it may not work as expected at the moment. If you find any bugs, please report them to the [issue tracker](https://github.com/gatelogic/PartyGamer/issues).
+
+A donation system is being put in place for Premium, but if it is not in place when the commands are avaliable, they will be free to use until the system is put in place.
+
+Discord Server: `TBC`
